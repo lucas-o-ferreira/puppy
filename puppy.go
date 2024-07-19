@@ -2,6 +2,8 @@ package puppy
 
 import "github.com/lucas-o-ferreira/dog"
 
+// doggy
+
 func Bark() string {
 	return "Bark!"
 }
